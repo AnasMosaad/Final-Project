@@ -2,7 +2,7 @@
   "name": "final-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AnasMosaad.github.io/Final-Project",
+  "homepage": "https://AnasMosaad.github.io/final",
   "type": "module",
   "scripts": {
     "dev": "vite",
